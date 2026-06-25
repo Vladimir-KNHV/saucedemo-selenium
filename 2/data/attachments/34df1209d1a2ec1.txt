@@ -1,0 +1,20 @@
+INFO     BASE_ELEMENT:base_element.py:31 Getting locator "//*[@data-test="checkout"]"
+INFO     BASE_ELEMENT:base_element.py:39 Clicking Button with name "checkout button"
+INFO     BASE_ELEMENT:base_element.py:31 Getting locator "//*[@data-test="title"]"
+INFO     BASE_ELEMENT:base_element.py:57 Checking Text with name "checkout_info_title" is visible
+INFO     BASE_ELEMENT:base_element.py:31 Getting locator "//*[@data-test="title"]"
+INFO     BASE_ELEMENT:base_element.py:87 Checking Text with name "checkout_info_title" have text "Checkout: Your Information"
+INFO     BASE_ELEMENT:base_element.py:31 Getting locator "//*[@class="checkout_info"]"
+INFO     BASE_ELEMENT:base_element.py:57 Checking Container with name "checkout_info_container" is visible
+INFO     BASE_ELEMENT:base_element.py:31 Getting locator "//*[@data-test="firstName"]"
+INFO     BASE_ELEMENT:base_element.py:57 Checking Input with name "first_name" is visible
+INFO     BASE_ELEMENT:base_element.py:31 Getting locator "//*[@data-test="firstName"]"
+INFO     BASE_ELEMENT:base_element.py:87 Checking Input with name "first_name" have text ""
+INFO     BASE_ELEMENT:base_element.py:31 Getting locator "//*[@data-test="lastName"]"
+INFO     BASE_ELEMENT:base_element.py:57 Checking Input with name "last_name" is visible
+INFO     BASE_ELEMENT:base_element.py:31 Getting locator "//*[@data-test="lastName"]"
+INFO     BASE_ELEMENT:base_element.py:87 Checking Input with name "last_name" have text ""
+INFO     BASE_ELEMENT:base_element.py:31 Getting locator "//*[@data-test="postalCode"]"
+INFO     BASE_ELEMENT:base_element.py:57 Checking Input with name "postal_code" is visible
+INFO     BASE_ELEMENT:base_element.py:31 Getting locator "//*[@data-test="postalCode"]"
+INFO     BASE_ELEMENT:base_element.py:87 Checking Input with name "postal_code" have text ""
