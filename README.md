@@ -79,13 +79,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### Дополнительная настройка Playwright (при необходимости)
 
-Если вы запускаете Playwright впервые, может потребоваться установка браузеров:
-
-```bash
-playwright install
-```
 
 ### Запуск тестов с генерацией Allure-отчета
 
